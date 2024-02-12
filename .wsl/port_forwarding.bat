@@ -1,0 +1,1 @@
+wsl --exec bash /home/draftone/port_forwarding.sh
